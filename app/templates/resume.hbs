@@ -1,2 +1,12 @@
 <h2>Resume</h2>
+
+{{#each job in model}}
+<h3>{{job.title}}</h3>
+<hr>
+<h4>{{job.body}}</h4>
+<p>{{job.experience}}</p>
+{{/each}}
+
+
+
 {{outlet}}
