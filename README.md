@@ -1,4 +1,4 @@
-# ardneK|Kendra Portfolio
+# ardnek|kendra Portfolio
 
 Project currently in progress ... ... ... ...
 
